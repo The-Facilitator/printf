@@ -2,6 +2,7 @@
 
 /**
  * get_size - Calculates the size to cast the argument
+ * and prints it out
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  *
@@ -24,4 +25,3 @@ int get_size(const char *format, int *i)
 
 	return (size);
 }
-
