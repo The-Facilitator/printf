@@ -8,6 +8,7 @@
  *
  * Return: Flags:
  */
+
 int get_flags(const char *format, int *i)
 {
 	/* - + 0 # ' ' */
